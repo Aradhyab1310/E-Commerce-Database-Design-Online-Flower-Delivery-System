@@ -1,6 +1,6 @@
 **E-Commerce Database Design – Online Flower Delivery System**
 
-This project focuses on designing a relational database for an online flower delivery platform, supporting features such as product browsing, user accounts, order processing, and delivery management.
+This project focuses on designing a relational database for an online flower delivery platform, supporting features such as product browsing, user accounts, order processing, and delivery management. This project reflects how a production-level database can support real-world e-commerce operations and can be extended with backend services (e.g., FastAPI) for full-stack integration.
 
 **Overview**
 
