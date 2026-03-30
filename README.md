@@ -34,6 +34,13 @@ Generate order summaries and delivery schedules
 Identify popular products and categories
 Manage promotions and discounts
 
+**How to Run**
+
+1. Run `schema.sql` to create tables  
+2. Run `sample_data.sql` to populate data  
+3. Run `queries.sql` to test functionality  
+
+
 **Tech Used**
 SQL (Relational Database Design)
 ERD Modeling
